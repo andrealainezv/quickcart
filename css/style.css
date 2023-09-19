@@ -1,0 +1,220 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap');
+:root{
+	--f7-theme-color:#5079FE;
+	--f7-navbar-bg-color: #fff; /*navbar*/
+	--f7-navbar-link-color: #5079FE; /*navbar link*/
+	--f7-navbar-text-color:#7C899F;
+	--f7-bars-bg-color:#fff;/*toolbar*/
+	--f7-tabbar-link-inactive-color: #333; /*link toolbar*/
+	--f7-block-margin-vertical:20px;
+	--f7-card-footer-border-color:transparent; 
+	--color-azul:##4168B5;
+}
+
+	body {
+	font-family: 'Poppins', sans-serif;
+	color:#000;
+}
+
+.img-fluid {
+	max-width: 100%;
+}
+
+#panel-menu {
+	background-color: #FFFFFF;
+	color: #000000;
+	text-align: left;
+	font-family: 'Poppins', sans-serif;
+}
+
+#menu-list {
+	background-color: #FFFF;
+	color: #000000;
+	text-align: left;
+	font-family: 'Poppins', sans-serif;
+}
+
+#menu-list .material-icons{
+	color: #4168B5;
+	
+}
+
+#menu-list img{
+	border-radius: 100px;
+	
+}
+
+#menu-list h4{
+	font-size: 14px;
+	font-weight: 100;
+	padding: 5% 0%;
+	
+}
+
+.material-icons{
+	color:#000000;
+	margin:0px 5px;
+}
+
+.nav-bar-title{
+	color:#000;
+}
+
+.location{
+	border-radius: 100px;
+	padding:3%;
+background-color: #4168B5;
+	color:#fff;
+}
+
+p{
+	font-size:20px;
+}
+h4{
+	font-size:20px;
+}
+
+h2{
+	margin-left: 10px;
+}
+
+
+#header-title {
+	padding: 10%;
+	text-align: center;
+	font-weight: 700;
+	font-family: 'Poppins', sans-serif;
+	font-size: 300%;
+	color:#D67124;
+	align-content: center;
+	align-items: center;
+	margin: 0px;
+}
+
+.center{
+text-align: center;	
+	
+}
+
+.list{
+	margin: 0;
+}
+
+
+.title-menu{
+	text-align: center;
+	color: #FFFFFF;
+	font-weight: 300;
+	font-size: 40px;
+}
+
+.btn-categories{
+	display: inline-block;
+
+}
+
+
+p{
+	font-size:20px;
+}
+h4{
+	font-size:20px;
+}
+
+h2{
+	margin-left: 10px;
+}
+
+
+#header-title {
+	padding: 10%;
+	text-align: center;
+	font-weight: 700;
+	font-family: 'Poppins', sans-serif;
+	font-size: 300%;
+	color:#D67124;
+	align-content: center;
+	align-items: center;
+	margin: 0px;
+}
+
+.center{
+text-align: center;	
+	
+}
+
+.list{
+	margin: 0;
+}
+
+
+.title-menu{
+	text-align: center;
+	color: #FFFFFF;
+	font-weight: 300;
+	font-size: 40px;
+}
+.btn-categories{
+	display: inline-block;
+
+}
+
+.btn-categories .title-categories{
+	text-align: center;
+	padding: 15px 27px;
+	font-size: 15px;
+}
+
+.active{
+	background-color: #F8BB63;
+	border: #F8BB63 1px solid;
+}
+
+.inactive{
+	border: #D67125 1px solid;
+}
+
+a{
+	text-decoration: none;
+	color: #000;
+}
+
+.fab{
+	padding:100;
+}
+
+
+.btn-product{
+	padding: 20px;
+	border-radius: 10px;
+	font-size: 17px;
+}
+
+
+h4.title-info-menu{
+	font-size: 18px;
+	font-weight: 500;
+	margin: 0px;
+}
+
+.equipo{
+	border-radius: 100px;
+}
+
+.precio{
+	color: #4168B5;
+}
+.interesar{
+	color:#FF8D27;
+}
+
+.card-active
+{
+	color: #FFFFFF;
+	background-color: #4168B5;
+}
+
+.card-active span
+{
+	color: #FFFFFF;
+}
